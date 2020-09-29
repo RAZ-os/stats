@@ -2,7 +2,7 @@ package stats
 
 import (
 	"fmt"
-	"github.com/RAZ-os/bank/pkg/types"
+	"github.com/RAZ-os/bank/v2/pkg/types"
 )
 func ExampleAvg() {
 	payments := []types.Payment{
